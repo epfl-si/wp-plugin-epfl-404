@@ -2,7 +2,7 @@
 /**
  * Plugin Name: EPFL-404
  * Description: To log 404 pages
- * @version: 0.3
+ * @version: 0.4
  * @copyright: Copyright (c) 2018 Ecole Polytechnique Federale de Lausanne, Switzerland
  */
 
