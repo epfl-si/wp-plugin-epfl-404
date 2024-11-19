@@ -9,7 +9,7 @@
 require_once('inc/epfl-404-db.php');
 require_once('inc/epfl-404-table.php');
 
-
+#[AllowDynamicProperties]
 class EPFL404
 {
     static $instance;
